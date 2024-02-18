@@ -22,4 +22,5 @@
 - [x] git push
 - [x] git pull
 - [] git branch
+  
 Виконав: **Магаз Артем**
