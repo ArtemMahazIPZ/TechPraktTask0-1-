@@ -1,0 +1,14 @@
+E:\ForPracTask0\ForPracTask0\bin\Debug\net8.0\ForPracTask0.exe
+E:\ForPracTask0\ForPracTask0\bin\Debug\net8.0\ForPracTask0.deps.json
+E:\ForPracTask0\ForPracTask0\bin\Debug\net8.0\ForPracTask0.runtimeconfig.json
+E:\ForPracTask0\ForPracTask0\bin\Debug\net8.0\ForPracTask0.dll
+E:\ForPracTask0\ForPracTask0\bin\Debug\net8.0\ForPracTask0.pdb
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ForPracTask0.GeneratedMSBuildEditorConfig.editorconfig
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ForPracTask0.AssemblyInfoInputs.cache
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ForPracTask0.AssemblyInfo.cs
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ForPracTask0.csproj.CoreCompileInputs.cache
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ForPracTask0.dll
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\refint\ForPracTask0.dll
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ForPracTask0.pdb
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ForPracTask0.genruntimeconfig.cache
+E:\ForPracTask0\ForPracTask0\obj\Debug\net8.0\ref\ForPracTask0.dll
